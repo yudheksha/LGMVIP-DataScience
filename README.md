@@ -5,8 +5,10 @@ Data Science Internship
 * Reference: Watch Tutorial from here https://youtu.be/CBCfOTePVPo
 * https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/
 
-## Task 2: Prediction using Decision Tree Algorithm
-* Create the Decision Tree classifier and visualize it graphically.
-* The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
-* Reference: Watch Tutorial from here https://youtu.be/CBCfOTePVPo
-* Dataset: https://bit.ly/3kXTdox
+
+## Task 2: Stock Market Prediction And Forecasting Using Stacked LSTM:
+* This a Beginner Level Task which deals with the Stock Market Dataset. 
+* In this task we are about to predict stock price and forecasting it using stacked LSTM.
+* Environment Used : Juyptier Notebook
+* Language Used : Python
+* Dataset Used : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
